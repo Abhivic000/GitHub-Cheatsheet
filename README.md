@@ -1,14 +1,7 @@
 # GitHub-Cheatsheet
 Github cheatsheet for your help
-<!DOCTYPE html>
-<html>
 
-<head>
-    <meta charset="UTF-8">
     <title>Git/GitHub Cheat Sheet</title>
-</head>
-
-<body>
 
     <h2>Git Basics:</h2>
     <ul>
@@ -55,6 +48,3 @@ Github cheatsheet for your help
         <li>Add a collaborator to a GitHub repository: Go to your repository > Settings > Collaborators</li>
     </ul>
 
-</body>
-
-</html>
