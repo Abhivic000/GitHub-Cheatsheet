@@ -1,11 +1,10 @@
 # GitHub-Cheatsheet
-Github cheatsheet for your help
 
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Git/GitHub Cheat Sheet</title>
+  <h2>Git/GitHub Cheat Sheet</h2>
 </head>
 <body>
   <h1>Git/GitHub Cheat Sheet</h1>
