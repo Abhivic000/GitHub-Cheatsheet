@@ -46,6 +46,68 @@ Github cheatsheet for your help
     </tbody>
   </table>
 
+  <h2>Git Config</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Command</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>git config --global user.name "Your Name"</code></td>
+      <td>Set your name for Git commits.</td>
+    </tr>
+    <tr>
+      <td><code>git config --global user.email "youremail@example.com"</code></td>
+      <td>Set your email address for Git commits.</td>
+    </tr>
+    <tr>
+      <td><code>git config --list</code></td>
+      <td>List all your Git configuration settings.</td>
+    </tr>
+    <tr>
+      <td><code>git config --global core.editor "code --wait"</code></td>
+      <td>Set your default text editor for commit messages (e.g., Visual Studio Code).</td>
+    </tr>
+    <tr>
+      <td><code>git config --global init.defaultBranch main</code></td>
+      <td>Set the default branch name for new repositories.</td>
+    </tr>
+    <tr>
+      <td><code>git config --global credential.helper 'cache --timeout=3600'</code></td>
+      <td>Cache your Git credentials for an hour.</td>
+    </tr>
+    <tr>
+      <td><code>git config --global core.autocrlf true</code></td>
+      <td>Configure line endings for Windows users (CRLF).</td>
+    </tr>
+    <tr>
+      <td><code>git config --global core.autocrlf input</code></td>
+      <td>Configure line endings for Unix/macOS users (LF).</td>
+    </tr>
+    <tr>
+      <td><code>git config --global alias.co checkout</code></td>
+      <td>Create an alias for 'git checkout'.</td>
+    </tr>
+    <tr>
+      <td><code>git config --global alias.br branch</code></td>
+      <td>Create an alias for 'git branch'.</td>
+    </tr>
+    <tr>
+      <td><code>git config --global alias.ci commit</code></td>
+      <td>Create an alias for 'git commit'.</td>
+    </tr>
+    <tr>
+      <td><code>git config --global alias.st status</code></td>
+      <td>Create an alias for 'git status'.</td>
+    </tr>
+  </tbody>
+</table>
+
+
   <h2>Branching and Merging:</h2>
   <table>
     <thead>
