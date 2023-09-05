@@ -4,10 +4,9 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <h2>Git/GitHub Cheat Sheet</h2>
+  <h1>Git/GitHub Cheat Sheet</h1>
 </head>
 <body>
-  <h1>Git/GitHub Cheat Sheet</h1>
 
   <h2>Git Basics:</h2>
   <table>
