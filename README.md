@@ -1,4 +1,3 @@
-# GitHub-Cheatsheet
 
 <!DOCTYPE html>
 <html>
@@ -44,7 +43,7 @@
     </tbody>
   </table>
 
-  <h2>Git Config</h2>
+  <h2>Git Config:</h2>
 
 <table>
   <thead>
